@@ -25,7 +25,8 @@ The project contains five tasks, each corresponding to a module of the course, a
 - Useful digital tools for students  
 - Safe internet practices  
 
-**Screenshot / Link:**  <img width="273" height="690" alt="Screenshot 2026-03-24 185224" src="https://github.com/user-attachments/assets/0d845d22-4b21-407f-8159-c649c4da06d9" />
+**Screenshot / Link:**  <img width="273" height="690" alt="Screenshot 2026-03-24 185224" src="https://github.com/user-attachments/assets/d0b03aa9-aaf9-4267-aa08-530307901314" />
+
 
 
 ---
@@ -36,7 +37,11 @@ The project contains five tasks, each corresponding to a module of the course, a
 - **LinkedIn** – Education section updated  
 - **Kaggle** – Beginner profile for data science  
 
-**Screenshots:**  `<img width="1181" height="835" alt="Screenshot 2026-03-24 191858" src="https://github.com/user-attachments/assets/6ad471d6-da46-40aa-b8d4-4b03d73b7b9e" /> , <img width="1909" height="816" alt="Screenshot 2026-03-24 191447" src="https://github.com/user-attachments/assets/65e624f7-c582-4cb3-b7f7-78e24b05e864" /> , ![linkedin](https://github.com/user-attachments/assets/406be5c7-f521-424c-becd-42746054762e)
+**Screenshots:**  <img width="1909" height="816" alt="Screenshot 2026-03-24 191447" src="https://github.com/user-attachments/assets/05d6f449-c9df-4783-af22-84a08a694d00" />  , <img width="1900" height="861" alt="Screenshot 2026-03-26 235252" src="https://github.com/user-attachments/assets/7180e32f-ac85-4ea0-9c5f-4b6cecc8d8ba" /> , ![linkedin](https://github.com/user-attachments/assets/eb7e2a3e-942a-47f4-9d35-d09e0c672db8)
+
+
+
+
 
 
   
@@ -46,15 +51,15 @@ The project contains five tasks, each corresponding to a module of the course, a
 ## 🔹 Task 3 – Coding & Collaboration Platforms
 **Coding Practice:**  
 - HackerRank “Solve Me First” problem completed  
-- Screenshot:  <img width="1902" height="846" alt="hackerrank solve me first" src="https://github.com/user-attachments/assets/8e2096b5-a7b2-4ce7-8a5f-55b49f470e3e" />
+- Screenshot:  <img width="1902" height="846" alt="hackerrank solve me first" src="https://github.com/user-attachments/assets/32f5cd52-a842-4060-82ac-ade0f8db4824" />
+
 
 
 **Google Form:**  
 - Digital Literacy Awareness Quiz (5 questions)  
 - Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeteMQydxU5-MFJu_14QhEhSWj_YRh9RSEKjKPGY8aD2C3RoQ/viewform?usp=publish-editor
-- Screenshots:  
-<img width="378" height="861" alt="Screenshot 2026-03-24 200506" src="https://github.com/user-attachments/assets/6e77ac40-dfaf-4136-b656-682c5e7ffe9e" />
-<img width="1896" height="452" alt="Screenshot 2026-03-24 195833" src="https://github.com/user-attachments/assets/5375ff68-c1d0-476f-b7e3-8644e9b3e38f" />
+- Screenshots:  <img width="378" height="861" alt="Screenshot 2026-03-24 200506" src="https://github.com/user-attachments/assets/7fdfe3f7-a3da-45fc-83f6-04abbf0c2ae7" /> , https://docs.google.com/forms/d/e/1FAIpQLSeteMQydxU5-MFJu_14QhEhSWj_YRh9RSEKjKPGY8aD2C3RoQ/viewform?usp=publish-editor
+
 
 ---
 
